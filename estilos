@@ -1,0 +1,9 @@
+#020227 fondo del contenido
+black fondo de la página
+white color de texto de cuerpo, del título y del texto de los botones
+#070773 color de fondo de los botones
+
+
+fuente para todo el texto
+<link href="https://fonts.googleapis.com/css2?family=Itim&display=swap" rel="stylesheet">
+font-family: 'Itim', cursive;
